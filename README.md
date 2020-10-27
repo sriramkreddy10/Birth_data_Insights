@@ -17,4 +17,5 @@ The Baby care and saftey products companies can adjust their marketing based on 
 
 ### For Contaceptive Industry
 In genaral Pregnancy lasts for about 280 days or 40 weeks that is around 9 months. So for instance the condom companies should try to increase their marketing 9-10 months before the months which have more number of births. Though we may require more data to deduce something like this like number of pregnencies, number of abortions, number of misscarriages and so on, this insights are based on the data we are currently using.
+
 Here we can see that in the months of August, spetember and October the births are more. So the contaceptive companies should increase the marketing in the months of January, December and November.
